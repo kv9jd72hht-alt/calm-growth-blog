@@ -1,0 +1,63 @@
+{
+  "blog": {
+    "title": "平静生长",
+    "subtitle": "在快节奏里，慢慢长成自己的样子",
+    "author": "平静"
+  },
+  "articles": [
+    {
+      "title": "慢下来，也是一种成长",
+      "slug": "slow-down",
+      "date": "2026-09-28",
+      "tags": ["慢生活", "自我成长"],
+      "excerpt": "快，常常让我们错过自己。慢下来，不是停止，而是把注意力重新放回当下。",
+      "cover": "https://media.doubao.com/space/api/box/stream/download/all_by_mount_point/VeYvbp0ZJoHplOx1NLzcCiP8n9d",
+      "file": "content/articles/slow-down.md"
+    },
+    {
+      "title": "记录情绪，是看清自己的开始",
+      "slug": "journaling",
+      "date": "2026-09-20",
+      "tags": ["情绪", "自我觉察"],
+      "excerpt": "情绪被命名的那一刻，它就不再是你的全部，而只是你的一部分。",
+      "cover": "https://media.doubao.com/space/api/box/stream/download/all_by_mount_point/HyRKb8w09oyICPx4JJgcjomvnib",
+      "file": "content/articles/journaling.md"
+    },
+    {
+      "title": "建立自己的晨间仪式",
+      "slug": "morning-ritual",
+      "date": "2026-09-12",
+      "tags": ["习惯", "日常"],
+      "excerpt": "晨间仪式真正的意义，是告诉你：你有权决定自己的一天怎么开始。",
+      "cover": "https://media.doubao.com/space/api/box/stream/download/all_by_mount_point/GM2WbNQSIoVzPexvEqccSB1CnMc",
+      "file": "content/articles/morning-ritual.md"
+    },
+    {
+      "title": "允许自己休息",
+      "slug": "allow-rest",
+      "date": "2026-09-05",
+      "tags": ["休息", "自我关怀"],
+      "excerpt": "允许自己休息，是对自己最大的温柔之一。它不是松懈，而是对生命更负责的态度。",
+      "cover": "https://media.doubao.com/space/api/box/stream/download/all_by_mount_point/NpvDbKNUhomEbxxwKEDc8MHEn0b",
+      "file": "content/articles/allow-rest.md"
+    },
+    {
+      "title": "回到自己的节奏",
+      "slug": "own-pace",
+      "date": "2026-08-28",
+      "tags": ["心态", "比较"],
+      "excerpt": "别人有别人的路，你有你的路。回到自己的节奏，是对自己最深的尊重。",
+      "cover": "https://media.doubao.com/space/api/box/stream/download/all_by_mount_point/GTfhbyx3SoPb3hxDmdLcGXQmnLd",
+      "file": "content/articles/own-pace.md"
+    },
+    {
+      "title": "读一本书，写下自己的感受",
+      "slug": "reading",
+      "date": "2026-08-20",
+      "tags": ["阅读", "输出"],
+      "excerpt": "一本书真正的价值，不在于翻过了多少页，而在于它在你心里留下了什么。",
+      "cover": "https://media.doubao.com/space/api/box/stream/download/all_by_mount_point/FMD3bi2Moo32KSx3mhrcpHlangg",
+      "file": "content/articles/reading.md"
+    }
+  ]
+}
